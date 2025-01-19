@@ -1,2 +1,2 @@
-# Testovanie_Softveru
+# 👨‍💻 Testovanie Softvéru
 Materiály k online kurzu Testovanie Softvéru
