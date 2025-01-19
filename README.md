@@ -2,6 +2,8 @@
 Materiály k online kurzu Testovanie Softvéru
 
 # Čo je Chyba a Defekt?
+![image](https://github.com/user-attachments/assets/c13b597d-8298-40e4-af15-475c3223530b)
+
 1. Nesprávne rozdelenie úloh medzi tímom
 1. Nefunkčné prihlásenie do systému
 1. Nesprávne zobrazenie dát v tabuľke
