@@ -2,13 +2,13 @@
 Materiály k online kurzu Testovanie Softvéru
 
 # 🎓 Požiadavky na SW Testerov, QA Manažérov a Test Analytikov
-https://www.alianciasr.sk/najziadanejsie-nedostatkove-pracovne-pozicie-na-trhu-prace/
-https://www.sustavapovolani.sk/register-zamestnani/pracovna-oblast/karta-zamestnania/17936-ikt-tester/
-https://www.nsp.cz/jednotka-prace/softwarovy-tester
-https://www.nsp.cz/jednotka-prace/tester-automatizovaneho-t
-https://www.surveymonkey.com/r/SOQR25?utm_source=website&utm_medium=login-page 
-https://www.howtodeal.dev/
-https://neilonsoftware.com/
+1. https://www.alianciasr.sk/najziadanejsie-nedostatkove-pracovne-pozicie-na-trhu-prace/
+1. https://www.sustavapovolani.sk/register-zamestnani/pracovna-oblast/karta-zamestnania/17936-ikt-tester/
+1. https://www.nsp.cz/jednotka-prace/softwarovy-tester
+1. https://www.nsp.cz/jednotka-prace/tester-automatizovaneho-t
+1. https://www.surveymonkey.com/r/SOQR25?utm_source=website&utm_medium=login-page 
+1. https://www.howtodeal.dev/
+1. https://neilonsoftware.com/
 
 ![image](https://github.com/user-attachments/assets/296176db-6421-4197-967c-63b706d4af46)
 
