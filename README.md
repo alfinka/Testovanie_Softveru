@@ -12,6 +12,17 @@ https://neilonsoftware.com/
 
 ![image](https://github.com/user-attachments/assets/296176db-6421-4197-967c-63b706d4af46)
 
+## 💰 Práca, projekty a prax pre testerov
+1.	uTest - všetky možné testy aj pre začiatočníkov
+2.	usertesting - UI testy aj pre začiatočníkov
+3.	trymyui - UI testy aj pre začiatočníkov
+4.	intellizoom - UI testy aj pre začiatočníkov
+5.	Facebook skupina Testeri
+6.	Facebook skupina QA Testers Slovakia
+7.	Profesia IT tester
+8.	Robime.it - Mediori, Seniori, výnimočné aj juniori pozície
+9.	Titans Slovakia - Mediori a Seniori
+10.	Toptal - Ultra mega Senior
 
 
 # 🛠 Typy SW Testov a Nástrojov
@@ -26,8 +37,76 @@ https://neilonsoftware.com/
 1. Testovanie kompatibility  
 1. Testovanie integrácie
 
+## 🤖 Automatizované/Web/API/Mobile/Desktop/UI Testy
+1.	Doplnok Selenium IDE: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
+2.	Doplnok Katalon Recorder: https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid 
+3.	Katalon Studio: https://www.katalon.com/katalon-studio/ 
+4.	BlazeMeter | The Continuous Testing Platform: https://chrome.google.com/webstore/detail/blazemeter-the-continuous/mbopgmdnpcbohhpnfglgohlbhfongabi 
+5.	Ranorex: https://www.ranorex.com/ 
+6.	Tricentis Tosca: https://www.tricentis.com/products/automate-continuous-testing-tosca 
+7.	BugBug: https://bugbug.io/ 
+8.	Testsigma: https://testsigma.com/ 
+9.	TestRigor: https://testrigor.com/
+    
+## 🛠️ Testerské doplnky k manuál a auto. Test. (ideálne Chrome)
+1.	Test & Feedback: https://chrome.google.com/webstore/detail/test-feedback/gnldpbnocfnlkkicnaplmkaphfdnlplb/related 
+2.	Exploratory Testing Chrome Extension: https://chrome.google.com/webstore/detail/exploratory-testing-chrom/khigmghadjljgjpamimgjjmpmlbgmekj/related 
+3.	Bug Magnet: https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi/related 
+4.	Bird Eats Bug: Technical Screen Recording: https://chrome.google.com/webstore/detail/bird-eats-bug-technical-s/mdplmiioglkpgkdblijgilgebpppgblm 
+5.	Fake Filler: https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo 
+6.	Check My Links: https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf 
+7.	Resolution Test: https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal 
+8.	Window Resizer: https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh 
+ 
+## 📈 Štatistické a analytické nástroje pre testerov
+1.	Statista - Celosvetové štatistiky
+2.	Statista - Štatistiky využívania prehliadačov
+3.	Statcounter - Podiel desktopových prehliadačov na trhu v Európe
+4.	Support Google - Prístup do Google Analytics Demo Účtu
+5.	Google Analytics - Testovací Účet pre Merchandise Store
+6.	Google Merchandise Store - Eshop Google
+   
+## 🧰 Nástroje pre Cross-platform testovanie pre testerov
+1.	BrowserStack - Desktop + Mobile appky
+2.	BrowserStack Dashboard - Automatizované testovanie naprieč platformami
+3.	Anaconda + Jupyter Python - Automatizované testovanie Python
+4.	Selenium IDE - Doplnok do prehliadača na UI Automatizované testovanie
+5.	Opera Install Chrome Extensions - Doplnok pre inštalácia Chrome doplnkov do Opery
 
-
+## 🖥️ Profil a Akcept/Pilotné testovanie (Acceptance/Pilot Testing)
+1.	Supportdetails (Aký máte počítač...): https://supportdetails.com/ 
+2.	Speccy: https://www.ccleaner.com/speccy 
+3.	Wappalyzer: https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg/related 
+4.	BuiltWith: https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn 
+5.	Visual Ping (Zmeny na webe/aplikácií): https://visualping.io/ 
+6.	UptimeRobot (Dostupnosť/Spoľahlivosť): https://uptimerobot.com/ 
+7.	Screaming Frog (SEO): https://www.screamingfrog.co.uk 
+8.	Kobiton: https://kobiton.com/
+   
+## 🕸️ API/Funkčné/Performance/Load/Stress/Speed/Web Testy
+1.	Screaming Frog: https://www.screamingfrog.co.uk/seo-spider/ 
+2.	SoapUI: https://www.soapui.org/tools/soapui 
+3.	Postman: https://www.postman.com/ 
+4.	Cypress.io: https://www.cypress.io/ 
+5.	Stoplight: https://stoplight.io/ 
+6.	Insomnia: https://insomnia.rest/ 
+7.	Apache JMeter: https://jmeter.apache.org/ 
+8.	Pingdom: https://tools.pingdom.com/ 
+9.	GTmetrix: https://gtmetrix.com/
+10.	Google Page Speed Insights/Lighthouse: https://pagespeed.web.dev/
+    
+## 👨‍💻 Testovanie použiteľnosti (Usability Testing)
+1.	Userlytics: https://www.userlytics.com/ 
+2.	UserZoom: https://www.userzoom.com/ 
+3.	Enroll: https://enrollapp.com/ 
+4.	UserFeel: https://www.userfeel.com/ 
+5.	Analysia: https://www.analysia.com/
+   
+##👮 Penetračné/Security Testy
+1.	Vega: https://subgraph.com/vega/ 
+2.	Burp Suite Community Edition: https://portswigger.net/support/using-burp-to-detect-sql-injection-flaws 
+3.	Havij: https://www.darknet.org.uk/2010/09/havij-advanced-automated-sql-injection-tool/ 
+4.	Kali Linux: https://www.kali.org/ 
 	 
 ## 💡 Princípy Testovania (ISTQB)
 1. Testovanie ukazuje prítomnosť defektov, nie ich neprítomnosť (Buxton 1970)
@@ -42,7 +121,6 @@ https://neilonsoftware.com/
 ![image](https://github.com/user-attachments/assets/a781d672-b573-4503-81ce-d6d8eba54f26)
 
 ![image](https://github.com/user-attachments/assets/d08b1cbd-895e-4f85-91be-20d737eb4438)
-
 
 # 🐞 Čo je Chyba a Defekt?
 ![image](https://github.com/user-attachments/assets/c13b597d-8298-40e4-af15-475c3223530b)
@@ -60,16 +138,29 @@ https://neilonsoftware.com/
 1. Pretečenie zásobníka (stack overflow)
 1. Nezabezpečené uchovávanie hesiel
 
-## Životný cyklus defektu
+## 🔄 Životný cyklus defektu
 ![image](https://github.com/user-attachments/assets/bf9da579-0fe4-434f-8ea6-823ce595b944)
 
-## Nástroje na správu a riadenie defektov
-1. JIRA SW
-1. Bugzilla
-1. GitHub Issue
-1. Mantis Bug Tracker
-1. SAP ALM Cloud
-1. Ranorex
-1. Tricentis Tosca
+## 👔 Nástroje na správu a riadenie defektov (Test a Bug Management)
+1.	GitHub Issues: https://github.com/ 
+2.	Mantis Bug Tracker: https://www.mantisbt.org/bugs/login_page.php 
+3.	SAP ALM Cloud: https://support.sap.com/en/alm/demo-systems/cloud-alm-demo-system.html 
+4.	Katalon TestOps: https://analytics.katalon.com/ 
+5.	YouTrack: https://www.jetbrains.com/youtrack/ 
+6.	Jira a Confluence: https://www.atlassian.com/software/jira/features/bug-tracking
+7.	Bugzilla: https://www.bugzilla.org/
+8.	DownDetector: https://downdetector.com/
 
+# 💡 Zaujímavé odkazy a zdroje
+1.	https://www.blazemeter.com/blog/top-15-ui-test-automation-best-practices-you-should-follow 
+2.	https://www.ui42.sk/blog/13-zisteni-ako-vylepsit-formulare-na-web-strankach
+3.	https://developers.facebook.com/docs/javascript/examples/ 
+4.	https://www.toptal.com/services/software-quality-assurance 
+5.	https://stackoverflow.com/questions/3065485/understanding-how-software-testing-works-and-what-to-test 
+6.	https://www.nsp.cz/jednotka-prace/softwarovy-tester 
+7.	https://www.sustavapovolani.sk/karta_zamestnania-17936 
+8.	http://automation-beyond.com/wp/wp-content/uploads/2011/04/FUNCTIONALITY.jpg 
+9.	https://www.platy.sk/platy/informacne-technologie/it-tester-automatizovane-testy?search=1 
+10.	https://www.mirri.gov.sk/wp-content/uploads/2020/08/R1_1_DNR_DETAILNY-NAVRH-RIESENIA_Projekt_AA_Ovm_BB_OsobaXY_DDMMYY_v0.1.docx 
+11.	https://support.utest.com/csp?id=csp_index 
 
