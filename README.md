@@ -102,7 +102,7 @@ Materiály k online kurzu Testovanie Softvéru
 4.	UserFeel: https://www.userfeel.com/ 
 5.	Analysia: https://www.analysia.com/
    
-##👮 Penetračné/Security Testy
+## 👮 Penetračné/Security Testy
 1.	Vega: https://subgraph.com/vega/ 
 2.	Burp Suite Community Edition: https://portswigger.net/support/using-burp-to-detect-sql-injection-flaws 
 3.	Havij: https://www.darknet.org.uk/2010/09/havij-advanced-automated-sql-injection-tool/ 
