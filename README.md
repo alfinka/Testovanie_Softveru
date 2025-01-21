@@ -24,7 +24,6 @@ Materiály k online kurzu Testovanie Softvéru
 9.	Titans Slovakia - Mediori a Seniori
 10.	Toptal - Ultra mega Senior
 
-
 # 🛠 Typy SW Testov a Nástrojov
 1. Funkčné testovanie
 1. API testovanie 
@@ -36,6 +35,33 @@ Materiály k online kurzu Testovanie Softvéru
 1. Bezpečnostné testovanie	 
 1. Testovanie kompatibility  
 1. Testovanie integrácie
+
+
+## 🧪 Rozdelenie Testovania SW
+![image](https://github.com/user-attachments/assets/8cc0e4af-1dd4-431f-bd35-7357c8b72fdf)
+
+1. Pri zadávaní emailovej adresy do formulára je zobrazené chybové hlásenie, ak je email neplatný (napr. bez „@“ alebo „.com“).
+1. Po zadaní nesprávneho používateľského mena a hesla sa zobrazí chybové hlásenie a používateľ nie je prihlásený.
+1. Testovanie webovej stránky na rôznych zariadeniach (mobil, tablet, desktop) a kontrola, či sa stránka správne zobrazuje na každom z nich.
+1. Po odoslaní objednávky cez nákupný košík systém správne vypočíta celkovú cenu a aplikuje zľavu.
+1. Používateľ klikne na neexistujúci odkaz a zobrazí sa stránka 404 „Stránka neexistuje“.
+1. Používateľ vyplní prihlásenie, ale počas procesu zistí, že zabudol heslo a klikne na odkaz na obnovenie hesla.
+1. Otestovanie, či systém správne reaguje na pokus o SQL injection v prihlasovacom formulári.
+1. Počas testovania na rôznych prehliadačoch (Chrome, Firefox, Safari) sa stránky načítajú správne bez vizuálnych a funkčných problémov.
+1. Po odoslaní formulára na stránke sa zobrazuje správne chybové hlásenie, ak niektoré polia zostanú prázdne.
+1. Na stránke sa testuje, či sa obsah (obrázky, texty) zobrazuje správne a či sa stránka načíta rýchlo aj pri vyššom počte súčasných používateľov
+
+Vzor:
+Typ testovania podľa úrovne: Testovanie jednotiek 
+Typ testovania podľa prístupu: Gray-box
+Typ testovania podľa cieľa: Testovanie funkčnosti
+Typ testovania podľa automatizácie: Automatizované
+Typ testovania podľa typu softvéru: Testovanie web. app
+Testovaná vlastnosť: Validácia vstupov (formuláre)
+Prístup overovania systému: Overenie výstupov
+
+## 🔎 Exploratívne testovanie 
+
 
 ## 🤖 Automatizované/Web/API/Mobile/Desktop/UI Testy
 1.	Doplnok Selenium IDE: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
