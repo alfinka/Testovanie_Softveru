@@ -52,7 +52,7 @@ Materiály k online kurzu Testovanie Softvéru
 1. Po odoslaní formulára na stránke sa zobrazuje správne chybové hlásenie, ak niektoré polia zostanú prázdne.  
 1. Na stránke sa testuje, či sa obsah (obrázky, texty) zobrazuje správne a či sa stránka načíta rýchlo aj pri vyššom počte súčasných používateľov  
 
-**Vzorový výstup pre cvičenie:**
+**Vzorový výstup pre cvičenie:**  
 Typ testovania podľa úrovne: Testovanie jednotiek  
 Typ testovania podľa prístupu: Gray-box  
 Typ testovania podľa cieľa: Testovanie funkčnosti  
