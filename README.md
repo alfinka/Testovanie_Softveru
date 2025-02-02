@@ -62,8 +62,7 @@ Materiály k online kurzu Testovanie Softvéru
 ⚫ Prístup overovania systému: Overenie výstupov  
 
 ## 🔎 Exploratívne testovanie 
-Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri používajú svoje skúsenosti a intuíciu na interakciu s aplikáciou.  
-Cieľom je odhaliť nepredvídateľné problémy a potenciálne nedostatky, ktoré nemusia byť zachytené počas systematického testovania.  
+Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri používajú svoje skúsenosti a intuíciu na interakciu s aplikáciou. Cieľom je odhaliť nepredvídateľné problémy a potenciálne nedostatky, ktoré nemusia byť zachytené počas systematického testovania.  
 
 **Typické scenáre:**
 - Testovanie interakcií medzi rôznymi časťami aplikácie bez predchádzajúcej analýzy scenárov.  
