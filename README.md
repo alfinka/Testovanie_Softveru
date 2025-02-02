@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2f084d8f-481d-4e7c-92c3-44c6be1d726e)# 👨‍💻 Testovanie Softvéru
+# 👨‍💻 Testovanie Softvéru
 Materiály k online kurzu Testovanie Softvéru
 
 # 🎓 Požiadavky na SW Testerov, QA Manažérov a Test Analytikov
