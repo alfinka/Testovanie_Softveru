@@ -75,12 +75,12 @@ Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri p
 1. Testovanie možnosti použitia aplikácie bez pripojenia na internet a následné obnovenie pripojenia.  
 1. Skúmanie stabilnosti aplikácie pri náhodných alebo neplánovaných interakciách medzi tlačidlami alebo formulármi.  
 
-**Cvičenia na identifikáciu exploratívneho testovania**
-Scenár 1: Aplikácia na správu osobných financií umožňuje používateľom pridať, upravit a odstrániť výdavky. Po pridaní výdavku sa automaticky aktualizuje zostatok na účte a zobrazí sa upozornenie o prebytku alebo nedostatku financií.  
-Scenár 2: Aplikácia pre spravovanie zoznamu úloh umožňuje používateľom pridávať, upravovať, označovať ako dokončené a odstraňovať úlohy. Každá úloha má názov, popis a dátum splnenia.  
-Scenár 3:  Aplikácia pre e-commerce (eshop) umožňuje zákazníkom pridať produkty do nákupného košíka, prejsť k pokladni, vybrať spôsob platby a dokončiť nákup.  
-Scenár 4: Aplikácia na spracovanie platieb zabezpečuje, že každý platobný príkaz je spracovaný podľa stanovených pravidiel a že údaje o platbách sú správne zaznamenané v databáze.  
-Scenár 5: Mobilná aplikácia na sledovanie športových výkonov zaznamenáva aktivitu používateľov, analyzuje ich výkony a poskytuje odporúčania na zlepšenie.  
+**Cvičenia na identifikáciu exploratívneho testovania**  
+**Scenár 1:** Aplikácia na správu osobných financií umožňuje používateľom pridať, upravit a odstrániť výdavky. Po pridaní výdavku sa automaticky aktualizuje zostatok na účte a zobrazí sa upozornenie o prebytku alebo nedostatku financií.  
+**Scenár 2:** Aplikácia pre spravovanie zoznamu úloh umožňuje používateľom pridávať, upravovať, označovať ako dokončené a odstraňovať úlohy. Každá úloha má názov, popis a dátum splnenia.  
+**Scenár 3:** Aplikácia pre e-commerce (eshop) umožňuje zákazníkom pridať produkty do nákupného košíka, prejsť k pokladni, vybrať spôsob platby a dokončiť nákup.  
+**Scenár 4:** Aplikácia na spracovanie platieb zabezpečuje, že každý platobný príkaz je spracovaný podľa stanovených pravidiel a že údaje o platbách sú správne zaznamenané v databáze.  
+**Scenár 5:** Mobilná aplikácia na sledovanie športových výkonov zaznamenáva aktivitu používateľov, analyzuje ich výkony a poskytuje odporúčania na zlepšenie.  
 
 Je exploratívne testovanie vhodné pre tento scenár?  
 Ak nie, aký typ testovania je vhodný a prečo?  
