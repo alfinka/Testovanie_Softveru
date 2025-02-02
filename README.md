@@ -41,16 +41,16 @@ Materiály k online kurzu Testovanie Softvéru
 ![image](https://github.com/user-attachments/assets/8cc0e4af-1dd4-431f-bd35-7357c8b72fdf)
 
 **Cvičenia na správnu kategorizáciu testov**
-1. Pri zadávaní emailovej adresy do formulára je zobrazené chybové hlásenie, ak je email neplatný (napr. bez „@“ alebo „.com“).
-1. Po zadaní nesprávneho používateľského mena a hesla sa zobrazí chybové hlásenie a používateľ nie je prihlásený.
-1. Testovanie webovej stránky na rôznych zariadeniach (mobil, tablet, desktop) a kontrola, či sa stránka správne zobrazuje na každom z nich.
-1. Po odoslaní objednávky cez nákupný košík systém správne vypočíta celkovú cenu a aplikuje zľavu.
-1. Používateľ klikne na neexistujúci odkaz a zobrazí sa stránka 404 „Stránka neexistuje“.
-1. Používateľ vyplní prihlásenie, ale počas procesu zistí, že zabudol heslo a klikne na odkaz na obnovenie hesla.
-1. Otestovanie, či systém správne reaguje na pokus o SQL injection v prihlasovacom formulári.
-1. Počas testovania na rôznych prehliadačoch (Chrome, Firefox, Safari) sa stránky načítajú správne bez vizuálnych a funkčných problémov.
-1. Po odoslaní formulára na stránke sa zobrazuje správne chybové hlásenie, ak niektoré polia zostanú prázdne.
-1. Na stránke sa testuje, či sa obsah (obrázky, texty) zobrazuje správne a či sa stránka načíta rýchlo aj pri vyššom počte súčasných používateľov
+1. Pri zadávaní emailovej adresy do formulára je zobrazené chybové hlásenie, ak je email neplatný (napr. bez „@“ alebo „.com“).  
+1. Po zadaní nesprávneho používateľského mena a hesla sa zobrazí chybové hlásenie a používateľ nie je prihlásený.  
+1. Testovanie webovej stránky na rôznych zariadeniach (mobil, tablet, desktop) a kontrola, či sa stránka správne zobrazuje na každom z nich.  
+1. Po odoslaní objednávky cez nákupný košík systém správne vypočíta celkovú cenu a aplikuje zľavu.  
+1. Používateľ klikne na neexistujúci odkaz a zobrazí sa stránka 404 „Stránka neexistuje“.  
+1. Používateľ vyplní prihlásenie, ale počas procesu zistí, že zabudol heslo a klikne na odkaz na obnovenie hesla.  
+1. Otestovanie, či systém správne reaguje na pokus o SQL injection v prihlasovacom formulári.  
+1. Počas testovania na rôznych prehliadačoch (Chrome, Firefox, Safari) sa stránky načítajú správne bez vizuálnych a funkčných problémov.  
+1. Po odoslaní formulára na stránke sa zobrazuje správne chybové hlásenie, ak niektoré polia zostanú prázdne.  
+1. Na stránke sa testuje, či sa obsah (obrázky, texty) zobrazuje správne a či sa stránka načíta rýchlo aj pri vyššom počte súčasných používateľov  
 
 **Vzorový výstup pre cvičenie:**
 Typ testovania podľa úrovne: Testovanie jednotiek  
@@ -62,29 +62,29 @@ Testovaná vlastnosť: Validácia vstupov (formuláre)
 Prístup overovania systému: Overenie výstupov  
 
 ## 🔎 Exploratívne testovanie 
-Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri používajú svoje skúsenosti a intuíciu na interakciu s aplikáciou.
-Cieľom je odhaliť nepredvídateľné problémy a potenciálne nedostatky, ktoré nemusia byť zachytené počas systematického testovania.
+Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri používajú svoje skúsenosti a intuíciu na interakciu s aplikáciou.  
+Cieľom je odhaliť nepredvídateľné problémy a potenciálne nedostatky, ktoré nemusia byť zachytené počas systematického testovania.  
 
 **Typické scenáre:**
-- Testovanie interakcií medzi rôznymi časťami aplikácie bez predchádzajúcej analýzy scenárov.
-- Zistenie, či používateľ môže vykonať sériu akcií, ktoré neboli pôvodne zohľadnené v testovacích prípadoch.
-- Overenie reakcie aplikácie na neštandardné alebo neobvyklé vstupy, ktoré nie sú explicitne uvedené v požiadavkách.
+- Testovanie interakcií medzi rôznymi časťami aplikácie bez predchádzajúcej analýzy scenárov.  
+- Zistenie, či používateľ môže vykonať sériu akcií, ktoré neboli pôvodne zohľadnené v testovacích prípadoch.  
+- Overenie reakcie aplikácie na neštandardné alebo neobvyklé vstupy, ktoré nie sú explicitne uvedené v požiadavkách.  
 
 **Príklady:**
-1. Skúšanie funkčnosti formulárov pri zadaní rôznych neštandardných hodnôt (napr. nečakané špeciálne znaky alebo dlhé reťazce).
-1. Otestovanie správania aplikácie pri rýchlej alebo pomalej navigácii medzi stránkami.
-1. Testovanie možnosti použitia aplikácie bez pripojenia na internet a následné obnovenie pripojenia.
-1. Skúmanie stabilnosti aplikácie pri náhodných alebo neplánovaných interakciách medzi tlačidlami alebo formulármi.
+1. Skúšanie funkčnosti formulárov pri zadaní rôznych neštandardných hodnôt (napr. nečakané špeciálne znaky alebo dlhé reťazce).  
+1. Otestovanie správania aplikácie pri rýchlej alebo pomalej navigácii medzi stránkami.  
+1. Testovanie možnosti použitia aplikácie bez pripojenia na internet a následné obnovenie pripojenia.  
+1. Skúmanie stabilnosti aplikácie pri náhodných alebo neplánovaných interakciách medzi tlačidlami alebo formulármi.  
 
 **Cvičenia na identifikáciu exploratívneho testovania**
-Scenár 1: Aplikácia na správu osobných financií umožňuje používateľom pridať, upravit a odstrániť výdavky. Po pridaní výdavku sa automaticky aktualizuje zostatok na účte a zobrazí sa upozornenie o prebytku alebo nedostatku financií.
-Scenár 2: Aplikácia pre spravovanie zoznamu úloh umožňuje používateľom pridávať, upravovať, označovať ako dokončené a odstraňovať úlohy. Každá úloha má názov, popis a dátum splnenia.
-Scenár 3:  Aplikácia pre e-commerce (eshop) umožňuje zákazníkom pridať produkty do nákupného košíka, prejsť k pokladni, vybrať spôsob platby a dokončiť nákup.
-Scenár 4: Aplikácia na spracovanie platieb zabezpečuje, že každý platobný príkaz je spracovaný podľa stanovených pravidiel a že údaje o platbách sú správne zaznamenané v databáze.
-Scenár 5: Mobilná aplikácia na sledovanie športových výkonov zaznamenáva aktivitu používateľov, analyzuje ich výkony a poskytuje odporúčania na zlepšenie.
+Scenár 1: Aplikácia na správu osobných financií umožňuje používateľom pridať, upravit a odstrániť výdavky. Po pridaní výdavku sa automaticky aktualizuje zostatok na účte a zobrazí sa upozornenie o prebytku alebo nedostatku financií.  
+Scenár 2: Aplikácia pre spravovanie zoznamu úloh umožňuje používateľom pridávať, upravovať, označovať ako dokončené a odstraňovať úlohy. Každá úloha má názov, popis a dátum splnenia.  
+Scenár 3:  Aplikácia pre e-commerce (eshop) umožňuje zákazníkom pridať produkty do nákupného košíka, prejsť k pokladni, vybrať spôsob platby a dokončiť nákup.  
+Scenár 4: Aplikácia na spracovanie platieb zabezpečuje, že každý platobný príkaz je spracovaný podľa stanovených pravidiel a že údaje o platbách sú správne zaznamenané v databáze.  
+Scenár 5: Mobilná aplikácia na sledovanie športových výkonov zaznamenáva aktivitu používateľov, analyzuje ich výkony a poskytuje odporúčania na zlepšenie.  
 
-Je exploratívne testovanie vhodné pre tento scenár?
-Ak nie, aký typ testovania je vhodný a prečo?
+Je exploratívne testovanie vhodné pre tento scenár?  
+Ak nie, aký typ testovania je vhodný a prečo?  
 
 ## 🤖 Automatizované/Web/API/Mobile/Desktop/UI Testy
 1.	Doplnok Selenium IDE: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
