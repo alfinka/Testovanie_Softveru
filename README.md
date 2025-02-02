@@ -53,13 +53,13 @@ Materiály k online kurzu Testovanie Softvéru
 1. Na stránke sa testuje, či sa obsah (obrázky, texty) zobrazuje správne a či sa stránka načíta rýchlo aj pri vyššom počte súčasných používateľov  
 
 **Vzorový výstup pre cvičenie:**  
-Typ testovania podľa úrovne: Testovanie jednotiek  
-Typ testovania podľa prístupu: Gray-box  
-Typ testovania podľa cieľa: Testovanie funkčnosti  
-Typ testovania podľa automatizácie: Automatizované  
-Typ testovania podľa typu softvéru: Testovanie web. app  
-Testovaná vlastnosť: Validácia vstupov (formuláre)  
-Prístup overovania systému: Overenie výstupov  
+🔴 Typ testovania podľa úrovne: Testovanie jednotiek  
+🟠 Typ testovania podľa prístupu: Gray-box  
+🟡 Typ testovania podľa cieľa: Testovanie funkčnosti  
+🟢 Typ testovania podľa automatizácie: Automatizované  
+🔵 Typ testovania podľa typu softvéru: Testovanie web. app  
+🟣 Testovaná vlastnosť: Validácia vstupov (formuláre)  
+⚫ Prístup overovania systému: Overenie výstupov  
 
 ## 🔎 Exploratívne testovanie 
 Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri používajú svoje skúsenosti a intuíciu na interakciu s aplikáciou.  
