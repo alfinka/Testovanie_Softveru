@@ -85,6 +85,36 @@ Zameriava na objavovanie nečakaných chýb a problémov v aplikácii. Testeri p
 Je exploratívne testovanie vhodné pre tento scenár?  
 Ak nie, aký typ testovania je vhodný a prečo?  
 
+Ďalšie cvičenia: https://bugeater.web.app/app/list
+
+# Chyby a Defekty 🐞
+Používatelia (ľudia) robia chyby (omyly). Nesprávna činnosť alebo rozhodnutie vykonané človekom, ktoré vedie k nesprávnym výsledkom. Vzniká v dôsledku nesprávneho alebo neúplného návrhu, implementácie, konfigurácie alebo používania softvérového systému. Časová tieseň, zložitosť pracovných produktov, procesov, únava, chýbajúce školenie/znalosti.
+Problémy v systéme spôsobené chybou, ktoré vedú k nesprávnemu správaniu aplikácie alebo systému. Vznikajú ako následok chyby v procese vývoja alebo implementácie (napr. nesprávna logika, chybný kód). Sú konkrétne a lokalizovateľné v artefaktoch (napr. kód, dokumentácia, testy, konfigurácie). Spôsobujú nesprávne fungovanie systému alebo jeho zlyhanie
+
+**Cvičenia Čo je Chyba a Defekt**
+1. Nesprávne rozdelenie úloh medzi tímom  
+1. Nefunkčné prihlásenie do systému  
+1. Nesprávne zobrazenie dát v tabuľke  
+1. Zabudnutie na testovanie  
+1. Nesprávna kalkulácia cien v nákupnom košíku  
+1. Chyba v komunikácii medzi tímami  
+1. Nesprávna správa verzií  
+1. Výpadok servera pri zvýšenom zaťažení   
+1. Nedostatočné školenie používateľov  
+1. Nezohľadnenie bezpečnostných aspektov 
+1. Pretečenie zásobníka (stack overflow)  
+1. Nezabezpečené uchovávanie hesiel
+
+## Klasifikácia Chýb ❌
+![image](https://github.com/user-attachments/assets/16478a94-35ce-43b1-b673-80cf534d1e6d)
+
+## Klasifikácia defektov (bugs) 🐞
+![image](https://github.com/user-attachments/assets/01aaf910-ab05-492f-9f20-ceb533642ee4)
+
+Ďalšie cvičenia: 
+- [https://bugeater.web.app/app/list](https://bugeater.web.app/app/list)  
+- [academybugs.com/find-bugs/](https://academybugs.com/find-bugs/#)  
+
 ## 🤖 Automatizované/Web/API/Mobile/Desktop/UI Testy
 1.	Doplnok Selenium IDE: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
 2.	Doplnok Katalon Recorder: https://chrome.google.com/webstore/detail/katalon-recorder-selenium/ljdobmomdgdljniojadhoplhkpialdid 
