@@ -1,0 +1,82 @@
+<notepadplus>
+    <userlang name="Gherkin" ext="feature" udlversion="2.1">
+        <settings>
+            <global caseignored="no" allowfoldofcomments="no" foldcompact="no" forcepurelc="0" decimalseparator="0">
+            <prefix keywords1="no" keywords2="no" keywords3="yes" keywords4="yes" keywords5="no" keywords6="no" keywords7="no" keywords8="no">
+        </prefix></global></settings>
+        <keywordlists>
+            <keywords name="Comments">00# 01 02 03 04</keywords>
+            <keywords name="Numbers, prefix1"></keywords>
+            <keywords name="Numbers, prefix2"></keywords>
+            <keywords name="Numbers, extras1"></keywords>
+            <keywords name="Numbers, extras2"></keywords>
+            <keywords name="Numbers, suffix1"></keywords>
+            <keywords name="Numbers, suffix2"></keywords>
+            <keywords name="Numbers, range"></keywords>
+            <keywords name="Operators1"></keywords>
+            <keywords name="Operators2"></keywords>
+            <keywords name="Folders in code1, open"></keywords>
+            <keywords name="Folders in code1, middle"></keywords>
+            <keywords name="Folders in code1, close"></keywords>
+            <keywords name="Folders in code2, open"></keywords>
+            <keywords name="Folders in code2, middle"></keywords>
+            <keywords name="Folders in code2, close"></keywords>
+            <keywords name="Folders in comment, open"></keywords>
+            <keywords name="Folders in comment, middle"></keywords>
+            <keywords name="Folders in comment, close"></keywords>
+            <keywords name="Keywords1">"Feature:"
+"Background:"
+"Scenario:"
+"Scenario Outline:"
+"Examples:"
+"After:"
+"Feature Description:"</keywords>
+            <keywords name="Keywords2">Given
+When
+Then
+</keywords>
+            <keywords name="Keywords3">@</keywords>
+            <keywords name="Keywords4">|</keywords>
+            <keywords name="Keywords5">And
+and
+But
+but</keywords>
+            <keywords name="Keywords6">"if it exists"</keywords>
+            <keywords name="Keywords7">If
+if
+Endif
+endif
+"End If"
+"End if"
+"end if"</keywords>
+            <keywords name="Keywords8"></keywords>
+            <keywords name="Delimiters">00&lt; 01 02&gt; 03""" 04 05""" 06~{ 07 08} 09§{ 10 11} 12"% 13 14" 15[ 16 17] 18" 19 20" 21 22 23</keywords>
+        </keywordlists>
+        <styles>
+            <wordsstyle name="DEFAULT" fgcolor="000000" bgcolor="FFFFFF" fontname="Courier New" fontstyle="0" nesting="0">
+            <wordsstyle name="COMMENTS" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="LINE COMMENTS" fgcolor="008040" bgcolor="FFFFFF" fontname="Courier New" fontstyle="2" nesting="0">
+            <wordsstyle name="NUMBERS" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="KEYWORDS1" fgcolor="800040" bgcolor="FFFFFF" fontname="Lucida Console" fontstyle="4" nesting="0">
+            <wordsstyle name="KEYWORDS2" fgcolor="0000FF" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="KEYWORDS3" fgcolor="0080FF" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="KEYWORDS4" fgcolor="008000" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="KEYWORDS5" fgcolor="0000FF" bgcolor="FFFFFF" fontname="Courier New" fontstyle="0" nesting="0">
+            <wordsstyle name="KEYWORDS6" fgcolor="FF8000" bgcolor="FFFFFF" fontname="Courier New" fontstyle="0" nesting="0">
+            <wordsstyle name="KEYWORDS7" fgcolor="8000FF" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="KEYWORDS8" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="OPERATORS" fgcolor="0080FF" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="FOLDER IN CODE1" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="FOLDER IN CODE2" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="FOLDER IN COMMENT" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="DELIMITERS1" fgcolor="0080FF" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS2" fgcolor="008000" bgcolor="FFFFFF" fontname="Courier New" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS3" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS4" fgcolor="000000" bgcolor="FFFFFF" fontname="Lucida Console" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS5" fgcolor="FF8000" bgcolor="FFFFFF" fontname="" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS6" fgcolor="808040" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+            <wordsstyle name="DELIMITERS7" fgcolor="008000" bgcolor="FFFFFF" fontname="" fontstyle="1" nesting="0">
+            <wordsstyle name="DELIMITERS8" fgcolor="000000" bgcolor="FFFFFF" fontname="" fontstyle="0" nesting="0">
+        </wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></wordsstyle></styles>
+    </userlang>
+</notepadplus>
