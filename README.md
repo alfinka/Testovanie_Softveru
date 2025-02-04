@@ -113,7 +113,19 @@ Problémy v systéme spôsobené chybou, ktoré vedú k nesprávnemu správaniu 
 
 Ďalšie cvičenia: 
 - [https://bugeater.web.app/app/list](https://bugeater.web.app/app/list)  
-- [academybugs.com/find-bugs/](https://academybugs.com/find-bugs/#)  
+- [academybugs.com/find-bugs/](https://academybugs.com/find-bugs/#)
+
+# Chrome DevTools
+1. Inšpekcia HTML a úprava obsahu stránky
+1. Simulácia pomalého internetu
+1. Blokovanie načítania obrázkov
+1. Kontrola JavaScriptových chýb v konzole
+1. Emulácia mobilného zariadenia
+1. Testovanie výkonu stránky
+1. Overenie bezpečnostných hlavičiek
+1. Debugovanie JavaScriptu pomocou breakpointov
+1. Testovanie lokálneho úložiska (Local Storage)
+1. Spustenie auditu v Lighthouse
 
 ## 🤖 Automatizované/Web/API/Mobile/Desktop/UI Testy
 1.	Doplnok Selenium IDE: https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackbalphokd
